@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AkshayVenkataraman
 - 👀 I’m interested in Esports, Competitive Programming and Singing!
-- 🌱 I’m currently learning Python for IT Automation
-- 💞️ I’m looking to collaborate on: Nothing at the moment
+- 🌱 I’m currently expertising in ML frameworks
+- 💞️ I’m looking to collaborate on: ML
 - 📫 How to reach me EMAIL: akshayv2k@gmail.com
 
 <!---
